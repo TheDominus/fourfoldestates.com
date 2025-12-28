@@ -23,7 +23,7 @@ export function ContactForm() {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    
+
     // Basic validation
     if (!formData.name.trim() || !formData.email.trim() || !formData.message.trim()) {
       toast({
@@ -91,7 +91,7 @@ export function ContactForm() {
                 Interested in FourFold Estates?
               </h2>
               <p className="text-muted-foreground text-lg leading-relaxed mb-10">
-                We'd love to hear from you. Whether you have questions about the project, 
+                We'd love to hear from you. Whether you have questions about the project,
                 want to schedule a site visit, or are ready to make this your home—reach out to us.
               </p>
 
@@ -115,7 +115,7 @@ export function ContactForm() {
                   </div>
                   <div>
                     <h4 className="font-medium text-foreground mb-1">Phone</h4>
-                    <p className="text-muted-foreground">+91 XXXXX XXXXX</p>
+                    <p className="text-muted-foreground">+91 91706 446790</p>
                   </div>
                 </div>
 
@@ -125,7 +125,7 @@ export function ContactForm() {
                   </div>
                   <div>
                     <h4 className="font-medium text-foreground mb-1">Email</h4>
-                    <p className="text-muted-foreground">info@fourfoldestates.com</p>
+                    <p className="text-muted-foreground">fourfoldestates@gmail.com</p>
                   </div>
                 </div>
               </div>

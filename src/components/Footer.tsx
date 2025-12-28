@@ -31,7 +31,7 @@ export function Footer() {
               FourFold Estates
             </h3>
             <p className="text-background/70 leading-relaxed">
-              Premium residential development in Tungri, Chaibasa. 
+              Premium residential development in Tungri, Chaibasa.
               Building homes, nurturing communities.
             </p>
           </div>
@@ -63,7 +63,7 @@ export function Footer() {
             <address className="not-italic text-background/70 space-y-2">
               <p>Tungri, Chaibasa</p>
               <p>West Singhbhum, Jharkhand</p>
-              <p className="mt-4">info@fourfoldestates.com</p>
+              <p className="mt-4">fourfoldestates@gmail.com</p>
             </address>
           </div>
         </div>
@@ -73,7 +73,7 @@ export function Footer() {
           <p className="text-background/60 text-sm">
             © {new Date().getFullYear()} FourFold Estates LLP. All rights reserved.
           </p>
-          
+
           <Button
             variant="outline"
             size="icon"
