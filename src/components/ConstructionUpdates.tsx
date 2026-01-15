@@ -12,43 +12,85 @@ interface Update {
 
 const updates: Update[] = [
   {
-    date: "December 2024",
-    title: "Land Acquisition Complete",
-    description: "Successfully acquired the prime land parcel in Tungri, Chaibasa. Legal clearances and documentation finalized.",
+    date: "July 2024",
+    title: "Prime Land Identification",
+    description:
+      "Identification of prime land parcel for the project based on location, access, and development potential.",
     status: "completed",
-    image: "https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image:
+      "https://drive.google.com/uc?export=view&id=1bKZRaR_oO38fWNT37_xw2QHSc3-Wk9UD",
   },
   {
-    date: "January 2025",
-    title: "Site Preparation & Survey",
-    description: "Comprehensive site survey completed. Ground leveling and boundary marking in progress.",
+    date: "July 2024",
+    title: "Site Survey",
+    description:
+      "Detailed site survey conducted to assess topography, boundaries, and feasibility.",
     status: "completed",
-    image: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image:
+      "https://drive.google.com/uc?export=view&id=1xMfm-WMHuJk79OpdBE0M1-C-WT1Q1jLi",
   },
   {
-    date: "February 2025",
-    title: "Foundation Work Begins",
-    description: "Excavation and foundation laying for the first phase of residential units has commenced.",
+    date: "August 2024",
+    title: "Initial Legal Clearance",
+    description:
+      "Preliminary legal verification completed to ensure clear ownership and compliance.",
+    status: "completed",
+    image:
+      "https://images.unsplash.com/photo-1554224154-26032ffc0d07?auto=format&fit=crop&w=800&q=80",
+  },
+  {
+    date: "September 2024",
+    title: "Land Demarcation",
+    description:
+      "Official demarcation of land boundaries completed on-site.",
+    status: "completed",
+    image:
+      "https://drive.google.com/uc?export=view&id=1WWvBsPSLQtYThtRBtkvbJDoq2jmoQ9Pw",
+  },
+  {
+    date: "October 2024",
+    title: "Bhoomi Pujan",
+    description:
+      "Traditional Bhoomi Pujan ceremony conducted on 2nd October (Vijay Dashmi) marking the start of the project.",
+    status: "completed",
+    image:
+      "https://drive.google.com/uc?export=view&id=1lKLcq2WBdjB62wvloL_npusq0lW2RGwZ",
+  },
+  {
+    date: "November 2024",
+    title: "Soil Testing",
+    description:
+      "Comprehensive soil testing carried out to determine foundation design.",
+    status: "completed",
+    image:
+      "https://drive.google.com/uc?export=view&id=1JVvX1fWvbzRsWW11c0DulV3DHIuiCDI3",
+  },
+  {
+    date: "Ongoing",
+    title: "Map Preparation",
+    description:
+      "Architectural and layout map preparation currently in progress.",
     status: "in-progress",
-    image: "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1581092334504-8c29bfb4b3f1?auto=format&fit=crop&w=800&q=80",
   },
   {
-    date: "Q2 2025",
+    date: "Q4 2025–2026",
+    title: "Final Legal Approvals",
+    description:
+      "Statutory and regulatory approvals are underway and expected to be completed in Q4.",
+    status: "in-progress",
+    image:
+      "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=800&q=80",
+  },
+  {
+    date: "Upcoming",
     title: "Infrastructure Development",
-    description: "Roads, drainage systems, and utility connections will be installed throughout the development.",
+    description:
+      "Development of internal roads, drainage, utilities, and core infrastructure.",
     status: "upcoming",
-  },
-  {
-    date: "Q3 2025",
-    title: "Structure Construction",
-    description: "Vertical construction of residential units with modern architectural features.",
-    status: "upcoming",
-  },
-  {
-    date: "Q4 2025",
-    title: "Finishing & Handover",
-    description: "Interior finishing, landscaping, and preparation for handover to homeowners.",
-    status: "upcoming",
+    image:
+      "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=800&q=80",
   },
 ];
 

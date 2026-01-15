@@ -115,7 +115,7 @@ export function ContactForm() {
                   </div>
                   <div>
                     <h4 className="font-medium text-foreground mb-1">Phone</h4>
-                    <p className="text-muted-foreground">+91 91706 446790</p>
+                    <p className="text-muted-foreground">+91 70614 46790</p>
                   </div>
                 </div>
 
