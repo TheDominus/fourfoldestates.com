@@ -12,7 +12,7 @@ interface Update {
 
 const updates: Update[] = [
   {
-    date: "July 2024",
+    date: "July 2025",
     title: "Prime Land Identification",
     description:
       "Identification of prime land parcel for the project based on location, access, and development potential.",
@@ -21,7 +21,7 @@ const updates: Update[] = [
       "https://lh3.googleusercontent.com/d/1lKLcq2WBdjB62wvloL_npusq0lW2RGwZ",
   },
   {
-    date: "July 2024",
+    date: "July 2025",
     title: "Site Survey",
     description:
       "Detailed site survey conducted to assess topography, boundaries, and feasibility.",
@@ -30,7 +30,7 @@ const updates: Update[] = [
       "https://lh3.googleusercontent.com/d/1JVvX1fWvbzRsWW11c0DulV3DHIuiCDI3",
   },
   {
-    date: "August 2024",
+    date: "August 2025",
     title: "Initial Legal Clearance",
     description:
       "Preliminary legal verification completed to ensure clear ownership and compliance.",
@@ -39,7 +39,7 @@ const updates: Update[] = [
       "https://images.unsplash.com/photo-1554224154-26032ffc0d07?auto=format&fit=crop&w=800&q=80",
   },
   {
-    date: "September 2024",
+    date: "September 2025",
     title: "Land Demarcation",
     description:
       "Official demarcation of land boundaries completed on-site.",
@@ -48,7 +48,7 @@ const updates: Update[] = [
       "https://lh3.googleusercontent.com/d/1WWvBsPSLQtYThtRBtkvbJDoq2jmoQ9Pw",
   },
   {
-    date: "October 2024",
+    date: "October 2025",
     title: "Bhoomi Pujan",
     description:
       "Traditional Bhoomi Pujan ceremony conducted on 2nd October (Vijay Dashmi) marking the start of the project.",
@@ -57,7 +57,7 @@ const updates: Update[] = [
       "https://lh3.googleusercontent.com/d/1bKZRaR_oO38fWNT37_xw2QHSc3-Wk9UD",
   },
   {
-    date: "November 2024",
+    date: "November 2025",
     title: "Soil Testing",
     description:
       "Comprehensive soil testing carried out to determine foundation design.",
