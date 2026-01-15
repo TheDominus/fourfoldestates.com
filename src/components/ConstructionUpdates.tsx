@@ -85,15 +85,6 @@ const updates: Update[] = [
   },
   {
     date: "",
-    title: "Infrastructure Development",
-    description:
-      "Development of internal roads, drainage, utilities, and core infrastructure.",
-    status: "upcoming",
-    image:
-      "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=800&q=80",
-  },
-  {
-    date: "",
     title: "Foundation Work Begins",
     description: "Excavation and foundation laying for the first phase of residential units has commenced.",
     status: "upcoming",
