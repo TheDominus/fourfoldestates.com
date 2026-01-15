@@ -84,13 +84,38 @@ const updates: Update[] = [
       "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=800&q=80",
   },
   {
-    date: "Upcoming",
+    date: "",
     title: "Infrastructure Development",
     description:
       "Development of internal roads, drainage, utilities, and core infrastructure.",
     status: "upcoming",
     image:
       "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=800&q=80",
+  },
+  {
+    date: "",
+    title: "Foundation Work Begins",
+    description: "Excavation and foundation laying for the first phase of residential units has commenced.",
+    status: "in-progress",
+    image: "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+  },
+  {
+    date: "",
+    title: "Infrastructure Development",
+    description: "Roads, drainage systems, and utility connections will be installed throughout the development.",
+    status: "upcoming",
+  },
+  {
+    date: "",
+    title: "Structure Construction",
+    description: "Vertical construction of residential units with modern architectural features.",
+    status: "upcoming",
+  },
+  {
+    date: "",
+    title: "Finishing & Handover",
+    description: "Interior finishing, landscaping, and preparation for handover to homeowners.",
+    status: "upcoming",
   },
 ];
 
