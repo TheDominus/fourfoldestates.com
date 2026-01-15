@@ -18,7 +18,7 @@ const updates: Update[] = [
       "Identification of prime land parcel for the project based on location, access, and development potential.",
     status: "completed",
     image:
-      "https://lh3.googleusercontent.com/d/1bKZRaR_oO38fWNT37_xw2QHSc3-Wk9UD",
+      "https://lh3.googleusercontent.com/d/1lKLcq2WBdjB62wvloL_npusq0lW2RGwZ",,
   },
   {
     date: "July 2024",
@@ -27,7 +27,7 @@ const updates: Update[] = [
       "Detailed site survey conducted to assess topography, boundaries, and feasibility.",
     status: "completed",
     image:
-      "https://lh3.googleusercontent.com/d/1xMfm-WMHuJk79OpdBE0M1-C-WT1Q1jLi",
+      "https://lh3.googleusercontent.com/d/1JVvX1fWvbzRsWW11c0DulV3DHIuiCDI3",
   },
   {
     date: "August 2024",
@@ -54,7 +54,7 @@ const updates: Update[] = [
       "Traditional Bhoomi Pujan ceremony conducted on 2nd October (Vijay Dashmi) marking the start of the project.",
     status: "completed",
     image:
-      "https://lh3.googleusercontent.com/d/1lKLcq2WBdjB62wvloL_npusq0lW2RGwZ",
+      "https://lh3.googleusercontent.com/d/1bKZRaR_oO38fWNT37_xw2QHSc3-Wk9UD",
   },
   {
     date: "November 2024",
@@ -63,7 +63,7 @@ const updates: Update[] = [
       "Comprehensive soil testing carried out to determine foundation design.",
     status: "completed",
     image:
-      "https://lh3.googleusercontent.com/d/1JVvX1fWvbzRsWW11c0DulV3DHIuiCDI3",
+      "https://lh3.googleusercontent.com/d/1xMfm-WMHuJk79OpdBE0M1-C-WT1Q1jLi",
   },
   {
     date: "Ongoing",
@@ -72,7 +72,7 @@ const updates: Update[] = [
       "Architectural and layout map preparation currently in progress.",
     status: "in-progress",
     image:
-      "https://images.unsplash.com/photo-1581092334504-8c29bfb4b3f1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=800&q=80",
   },
   {
     date: "Q4 2025–2026",
