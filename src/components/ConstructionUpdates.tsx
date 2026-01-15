@@ -96,8 +96,8 @@ const updates: Update[] = [
     date: "",
     title: "Foundation Work Begins",
     description: "Excavation and foundation laying for the first phase of residential units has commenced.",
-    status: "in-progress",
-    image: "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    status: "upcoming",
+    //image: "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
   },
   {
     date: "",
