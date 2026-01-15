@@ -18,7 +18,7 @@ const updates: Update[] = [
       "Identification of prime land parcel for the project based on location, access, and development potential.",
     status: "completed",
     image:
-      "https://lh3.googleusercontent.com/d/1lKLcq2WBdjB62wvloL_npusq0lW2RGwZ",,
+      "https://lh3.googleusercontent.com/d/1lKLcq2WBdjB62wvloL_npusq0lW2RGwZ",
   },
   {
     date: "July 2024",
